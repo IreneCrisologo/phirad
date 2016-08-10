@@ -17,11 +17,19 @@ The processing of the radar data relies on the Python module [wradlib](https://g
 - [ ] exploring Tagaytay data
 - [ ] exploring Virac data
 
+###### Quality
+- [ ] Beam blockage maps
+- [ ] getting POD maps
+- [ ] Attenuation
+
+###### Conversion to rain rate
+- [ ] rainfall from reflectivity
+
 ###### Polarimetric data
 - [x] clutter detection using fuzzy echo classification notebook
 - [ ] attenuation correction using KDP
 - [ ] differential phase processing
-- [ ] rainfall estimation using polarimetric variables
+- [ ] rainfall estimation using polarimetric variables R(KDP)
 
 ###### GIS stuff
 - [x] reading geotiff using GDAL
@@ -29,4 +37,3 @@ The processing of the radar data relies on the Python module [wradlib](https://g
 - [ ] plotting shapefiles over DEM
 - [ ] plotting shapefiles
 - [ ] plotting point data over maps
-- [ ] getting POD maps

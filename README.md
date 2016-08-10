@@ -27,7 +27,7 @@ The processing of the radar data relies on the Python module [wradlib](https://g
 
 ###### Polarimetric data
 - [x] clutter detection using fuzzy echo classification notebook
-- [ ] attenuation correction using KDP
+- [x] attenuation correction using KDP
 - [ ] differential phase processing
 - [ ] rainfall estimation using polarimetric variables R(KDP)
 

@@ -18,7 +18,7 @@ The processing of the radar data relies on the Python module [wradlib](https://g
 - [ ] exploring Virac data
 
 ###### Quality
-- [ ] Beam blockage maps
+- [x] Beam blockage maps
 - [ ] getting POD maps
 - [ ] Attenuation
 

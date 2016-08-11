@@ -4,8 +4,6 @@ Collection of notebooks in processing the Philippine Radar Network data and othe
 
 The processing of the radar data relies on the Python module [wradlib](https://github.com/wradlib/wradlib)
 
-[//]: #  TODO: a proper README / index page
-
 #### To do list:
 
 ###### General stuff
@@ -33,7 +31,7 @@ The processing of the radar data relies on the Python module [wradlib](https://g
 - [x] attenuation correction using KDP
 - [ ] detailed explanation of attenuation correction using KDP
 - [ ] differential phase processing
-- [ ] rainfall estimation using polarimetric variables R(KDP)
+- [x] rainfall estimation using polarimetric variables R(KDP)
 
 ###### Visualization
 - [x] Showcase of polarimetric radar data from Tagaytay radar

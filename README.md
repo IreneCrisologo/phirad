@@ -44,3 +44,12 @@ For other information about the Philippine Radar Network, events seen by the rad
 - [ ] plotting shapefiles over DEM
 - [ ] plotting shapefiles
 - [ ] plotting point data over maps
+
+
+
+
+# Testing stuff
+
+\[
+<p align="center"><img src="https://rawgit.com/irenemeanspeace/phirad/master/svgs/9e17f66427b08d6adc8f22991673d92f.svg?invert_in_darkmode" align=middle width=575.92095pt height=88.712745pt/></p>
+\]

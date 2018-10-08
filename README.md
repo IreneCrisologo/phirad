@@ -4,7 +4,7 @@ Collection of notebooks in processing the Philippine Radar Network data and othe
 
 The processing of the radar data relies on the Python module [wradlib](https://github.com/wradlib/wradlib).
 
-For other information about the Philippine Radar Network, events seen by the radars, and other random stuff, head on to [my blog](philippineradarnetwork.wordpress.com)
+For other information about the Philippine Radar Network, events seen by the radars, and other random stuff, head on to [my blog](www.philippineradarnetwork.wordpress.com)
 
 #### To do list:
 
